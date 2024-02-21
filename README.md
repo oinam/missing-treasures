@@ -1,2 +1,1 @@
-# missing-treasures
-The Missing Treasures of the World.
+# The Missing Treasures of the World
